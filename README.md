@@ -12,7 +12,7 @@ Those shortcuts are similar to the ones that I were using when I was using `NetB
 
 ## Some examples
 
-| Command (Mac) | Command (Win) | Execution |
+| Shortcut (Mac) | Shortcut (Win) | Shortcut explanation |
 |---------------|---------------|-----------|
 | `Command+E` | `CTRL+E` | Delete entire line |
 | `Command+Shift+C` | `CTRL+Shift+C` | Toggle line comment for the selected lines |
