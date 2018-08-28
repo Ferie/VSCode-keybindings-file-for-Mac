@@ -14,10 +14,10 @@ Those shortcuts are similar to the ones that I were using when I was using `NetB
 
 | Shortcut (Mac) | Shortcut (Win) | Shortcut explanation |
 |---------------|---------------|-----------|
-| `Command+E` | `CTRL+E` | Delete entire line |
-| `Command+Shift+C` | `CTRL+Shift+C` | Toggle line comment for the selected lines |
+| `Command+E` | `CTRL+E` | Delete entire line or block of selected lines |
+| `Command+Shift+C` | `CTRL+Shift+C` | Toggle line comment (or block of selected lines) |
 | `Alt+Shift+Up` or `...+Down` | `Alt+Shift+Up` or `...+Down` | Move line up or down |
 | `Command+Shift+Up` or `...+Down` | `CTRL+Shift+Up` or `...+Down` | Copy line up or down |
-| `Command+E` | `CTRL+E` | Delete entire line |
 | `Alt+Shift+F` | `Alt+Shift+F` | Format the selected block of lines |
-| `Command+H` | `CTRL+H` | Find and replace in the active file |
+| `Command+G` | `CTRL+G` | Go to line |
+| `Command+H` | `CTRL+H` | Find and replace in the active file window |
