@@ -1,4 +1,4 @@
-# VS Code keybindings file for Mac
+# VS Code keybindings file
 
 This is my personal Visual Studio Code setting for the keyboard when using a Mac.
 
